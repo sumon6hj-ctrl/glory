@@ -1,0 +1,16 @@
+Flask
+Flask-SQLAlchemy
+Flask-Bcrypt
+PyJWT
+requests
+httpx
+google
+protobuf
+pycryptodome
+psutil
+urllib3
+protobuf-decoder
+pytz
+aiohttp
+cfonts
+asyncio
